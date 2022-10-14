@@ -4,7 +4,7 @@ using UnityEngine;
 public class ClickAndDrag : MonoBehaviour
 {
     public GameObject selectedObject;
-    Vector3 offset = -new Vector3(0f, 0.5f, -2f);
+    //Vector3 offset = -new Vector3(0f, 0.5f, -2f);
 
     private void Start()
     {
